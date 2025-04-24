@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrinitishR
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on to develop a application.
+- 💞️ I’m looking to collaborate to develop an application.
 - 📫 How to reach me -SrintishR
 
 <!---
